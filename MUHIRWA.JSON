@@ -1,0 +1,78 @@
+[
+    {
+        "Name": "Jimmmy",
+        "Reg No": 24012338,
+        "Gender": "Male",
+        "Department": "Computer and IT",
+        "Session": "weekend"
+    }
+    
+    {
+        "Name": "Robert",
+        "Reg No": 24012337,
+        "Gender": "Male",
+        "Department": "Computer and IT",
+        "Session": "weekend"
+    }
+    {
+        "Name": "Ghislaine",
+        "Reg No": 24012336,
+        "Gender": "Female",
+        "Department": "Computer and IT",
+        "Session": "weekend"
+    }
+    
+    {
+        "Name": "Denyse",
+        "Reg No": 24012335,
+        "Gender": "Female",
+        "Department": "Computer and IT",
+        "Session": "weekend"
+    }
+    {
+        "Name": "Gentille",
+        "Reg No": 24012334,
+        "Gender": "Female",
+        "Department": "Computer and IT",
+        "Session": "weekend"
+    }
+    
+    {
+        "Name": "Bertin",
+        "Reg No": 24012333,
+        "Gender": "Male",
+        "Department": "Computer and IT",
+        "Session": "weekend"
+    }
+    {
+        "Name": "Theo",
+        "Reg No": 24012332,
+        "Gender": "Male",
+        "Department": "Computer and IT",
+        "Session": "weekend"
+    }
+    
+    {
+        "Name": "Kamuhanda",
+        "Reg No": 24012331,
+        "Gender": "Male",
+        "Department": "Computer and IT",
+        "Session": "weekend"
+    }
+    {
+        "Name": "Junior",
+        "Reg No": 24012330,
+        "Gender": "Male",
+        "Department": "Computer and IT",
+        "Session": "weekend"
+    }
+    
+    {
+        "Name": "Karomba",
+        "Reg No": 24012332,
+        "Gender": "Female",
+        "Department": "Computer and IT",
+        "Session": "weekend"
+    }
+]
+
